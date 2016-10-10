@@ -1,6 +1,4 @@
+********************************************* stata.toc
 v 3
 d plottig by danbischof
-
-* See: -help plottig-
-
-t plottig
+p plottig [The plottig schemes]
